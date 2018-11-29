@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-small {
+section small {
     background: #ddd;
     // border: solid 1px #333;
     // border-width: 1px 0;
@@ -22,13 +22,13 @@ small {
 //     font-style: italic;
 // }
 
-small::before {
-    counter-increment: noteNum;
-    vertical-align: super;
-    font-size: 0.6em;
-    display: inline;
-    margin-left: 0.2em;
-    width: 1rem;
-//    content: counter(noteNum) "";
-    content: "➾ ";
-}
+// section small::before {
+//     counter-increment: noteNum;
+//     vertical-align: super;
+//     font-size: 0.6em;
+//     display: inline;
+//     margin-left: 0.2em;
+//     width: 1rem;
+// //    content: counter(noteNum) "";
+//     content: "➾ ";
+// }
