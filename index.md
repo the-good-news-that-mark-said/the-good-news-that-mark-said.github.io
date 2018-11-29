@@ -20,7 +20,14 @@ Just like what Isaiah (who spoke God’s truth) said:
 > A voice crying out in the wild places:  
 > "Prepare the owner's way! Make his paths straight!"   
      
-John came, putting people under water[^under] in a wild place,
+John came, putting people under water
+<small>
+The Jews (Jesus's people) follow many laws.
+If you wanted to go to God's house, you had to let a God-worker put you under water first; then you would be clean enough.
+Other people who wrote about Jesus say that John's father was a God-worker.
+Sons of God-workers were God-workers, but John was not a normal one.
+</small>
+in a wild place,
 and told people about being put under water and changing to get rid of bad acts.
 People from all over Judea (even from Jerusalem) went out to him,
 and he put them in the Jordan and they admitted what they had done wrong.
@@ -28,18 +35,15 @@ John wore clothing made from animal hair, an animal-skin ring around his middle,
 and he ate tiny flying animals and wild sweet stuff from other tiny flying animals.
 He said "A stronger person than me is coming after me, and I am not good enough to tie his shoes.
 I washed you in water, but he will wash you in God's Spirit."
-
-[^under]: The Jews (Jesus's people) follow many laws.
-  If you wanted to go to God's house, you had to let a God-worker put you under water first; then you would be clean enough.
-  Other people who wrote about Jesus say that John's father was a God-worker.
-  Sons of God-workers were God-workers, but John was not a normal one.
   
 Immediately, the Spirit sent Jesus into a wild place.
-He stayed there for many days, and Satan[^satan] tried to make him do bad things.
+He stayed there for many days, and Satan
+<small>
+The name Satan just means "The One Against Us" in Hebrew.
+There is a bad spirit called Satan that shows up two times in the main books about God that the Jews read.
+</small>
+tried to make him do bad things.
 He was with the wild animals, and message-holders from God helped him.
-
-[^satan]: The name Satan just means "The One Against Us" in Hebrew.
-  There is a bad spirit called Satan that shows up two times in the main books about God that the Jews read.
 
 Now, after John was locked up, Jesus came to Galilee, talking about the good news of God, and saying
 "The time is right, and God's country is getting close. Change your life, and trust the good news."
