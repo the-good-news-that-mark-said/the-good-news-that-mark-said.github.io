@@ -52,7 +52,9 @@ As he went a little farther, he saw James (son of Zebedee), and his brother John
 who were in their boat, fixing their fish screens.
 Immediately, he called them, and they left their father Zebedee in the boat with the workers and followed him.
 
-They went to Capernaum, and when the resting day[^resting] came, he entered the church and taught.
+They went to Capernaum, and when the resting day
+<aside>One of the laws that Jews follow says that they have to rest on Saturdays.</aside>
+came, he entered the church and taught.
 They were surprised by his teaching, because he taught them like someone who had power,
 not like the people who thought about the law.
 Just then, there was someone in the church who had a sick spirit, and he yelled,
@@ -62,8 +64,6 @@ And making him shake and cry with a loud voice, the sick spirit came out of him.
 They were surprised, and kept asking each other, 
 "What is this? A new teaching, but with power? He orders the sick spirits around and they do what he says."
 And word about this spread through the whole space around Galilee.
-
-[^resting]: One of the laws that Jews follow says that they have to rest on Saturdays.
 
 As soon as they left the church, they went to Simon and Andrew's house, with James and John.
 Simon's mother-in-law was sick in bed, and they immediately told Jesus about her.
