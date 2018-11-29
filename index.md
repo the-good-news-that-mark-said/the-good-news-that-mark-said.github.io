@@ -52,8 +52,8 @@ As he went a little farther, he saw James (son of Zebedee), and his brother John
 who were in their boat, fixing their fish screens.
 Immediately, he called them, and they left their father Zebedee in the boat with the workers and followed him.
 
-They went to Capernaum, and when the resting day
-<aside>One of the laws that Jews follow says that they have to rest on Saturdays.</aside>
+They went to Capernaum, and when the resting day<aside>
+One of the laws that Jews follow says that they have to rest on Saturdays.</aside>
 came, he entered the church and taught.
 They were surprised by his teaching, because he taught them like someone who had power,
 not like the people who thought about the law.
