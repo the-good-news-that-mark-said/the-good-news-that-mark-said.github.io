@@ -4,9 +4,10 @@
 @import "{{ site.theme }}";
 
 section small {
-    background: #ddd;
-    // border: solid 1px #333;
-    // border-width: 1px 0;
+    // background: #ddd;
+    border: solid 1px #ddd;
+    border-width: 1px 0;
+    font-style: italic;
     float: right;
     clear: right;
     display: inline-block;
