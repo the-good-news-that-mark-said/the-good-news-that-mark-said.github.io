@@ -107,7 +107,13 @@ But some of the people who thought about the law were sitting there, and they th
 At once, Jesus knew that they were talking about these questions, and he said to them,
 "Which is easier to say to someone who can't move: 'The bad things you have done are gone',
 or 'Stand, take your bed, and walk'?
-But so you can know that The Human has the right to get rid of bad acts on earth--"
+But so you can know that The Human
+<small>
+Jesus used "The Human" to talk about himself.
+Probably, when people heard it, they would remember a time when Daniel (a great old Jewish person)
+said he saw God on a big chair on fire give the world to "one who looked like a human".
+</small>
+has the right to get rid of bad acts on earth--"
 he said to the man who could not move,
 "I tell you, stand up, take your bed, and go to your home!"
 And he got up, and immediately took his little bed, and went out in front of everyone.
@@ -135,6 +141,7 @@ When Jesus heard this, he said to them,
 I didn't come to call the good people, but the bad-thing-doers."
 
 Now John's students and the Pharisees were not eating.
+<small>The Pharisees didn't eat on Mondays and Thursdays. Not eating was a sign of being sad.</small>
 People said to Jesus, "Why is it that John's students and the Pharisees do not eat, but your students do?".
 Jesus said to them, "The wedding party eats while the husband-to-be is with them, don't they?
 As long as he is with them, they cannot avoid eating.
