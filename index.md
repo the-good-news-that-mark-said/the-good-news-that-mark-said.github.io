@@ -161,3 +161,57 @@ and ate the food that was in front of God, which may not be eaten, except by the
 He even gave some to the people with him."
 Then he said, "The resting day was made for people, not people for the resting day.
 So the The Human is owner of the resting day, even!"
+
+## Part 3
+
+Jesus went back to church, and there was a man with a bad hand.
+They watched to see if Jesus would fix him on the resting day, so that they could say that he broke the law.
+To the man with the bad hand, he said, "Stand up in the middle."
+Then he said, "Is it okay with the law to do good or to do bad things on the resting day? To save life or to kill?"
+But they were silent.
+He looked at them and was mad; he was sad about their hard hearts.
+He said to the man, "Stretch out your hand." He stretched it out, and his hand was fixed.
+The Pharisees went out and immediately talked with Herod's
+<small>Herod was the leader of the land Jesus was from;
+his father had built God's house (after it had been torn down).
+Herod was allowed to be the leader by the Romans.
+He didn't seem to care much about the Jewish laws.</small>
+people about how to kill him.
+
+Jesus went with his students to the little sea, and a lot of people from Galilee followed him,
+along with many people (who heard what he was doing) from Judea, Jerusalem, Idumea,
+the other side of the Jordan River, and the places around Tyre and Sidon.
+He told his students to have a boat ready, so that they wouldn't crowd around him,
+because he had fixed many sick people, so everyone who was sick wanted to touch him.
+When the sick spirits saw him, they fell down in front of him, and said, "You are the Son of God!"
+But he told them in a serious tone to not tell about him.
+
+Jesus went up to the mountain and called the people he wanted, and they came to him.
+He picked ten and two, whom he called message-carriers, to be with him,
+and to be sent out to tell people the message, and to throw out bad spirits.
+So he picked the ten and two: Simon (whom he called Peter
+<small>The name Peter just means "Rock".</small>
+), James (son of Zebedee) and John the brother of James (whom he called Boanerges, which means "Sons of Loud Sounds From The Sky"),
+and Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James (son of Alphaeus),
+and Thaddaeus, and Simon (from Cana), and Judas Iscariot, who would sell Jesus out.
+
+Then he went home, and the crowd came together again, so that they couldn't even eat.
+When his family heard about it, they went to hold him back, because people were saying, "He has lost his mind."
+And the people who think about the law who came from Jerusalem said
+"He has Beelzebul, and with the power of the leader of bad spirits, he throws the bad spirits out."
+And he called out to them, and spoke to them in word pictures, saying,
+"How can the Satan throw itself out?
+And if a country fights itself, that country cannot stand.
+And if a house fights itself, it will not be possible for that house to stand.
+And if Satan stood up against itself and is broken into two, it will not stand, but it has come to an end.
+But no one can come into a strong man's house and steal his things, without first tying up the strong man; then the house can be stolen from.
+
+"This is the truth: all the bad things humans have done and all the bad lies tell will be wiped away.
+But anyone who lies against the Good Spirit will keep their bad acts, and has done a bad thing that does not end."
+— this was because they were saying he had a sick spirit.
+
+Then Jesus' mother and brothers came and stood outside and sent for him.
+And the crowd sitting around him said, "You mother and your brothers and sisters are outside, asking for you."
+And he replied, "Who are my mother and my brothers?"
+Looking around at the people who sat around him in a circle, he said,
+"Here are my mother and my brothers! Anyone who does the will of God is my brother and sister and mother."
