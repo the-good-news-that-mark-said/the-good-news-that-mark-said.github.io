@@ -3,14 +3,14 @@
 
 @import "{{ site.theme }}";
 
-aside {
+small {
     background: #ddd;
     // border: solid 1px #333;
     // border-width: 1px 0;
     float: right;
     clear: right;
     display: inline-block;
-    margin: 0.25rem -5rem 0.75rem 1rem;
+    margin: 0.25rem -9rem 0.75rem 1rem;
     padding: 0.25rem 0.5rem;
     width: 8rem;
 }
@@ -22,11 +22,13 @@ aside {
 //     font-style: italic;
 // }
 
-aside::before {
+small::before {
+    counter-increment: noteNum;
     vertical-align: super;
     font-size: 0.6em;
     display: inline;
     margin-left: 0.2em;
     width: 1rem;
-    content: counter(noteNum) "";
+//    content: counter(noteNum) "";
+    content: "➾ ";
 }
