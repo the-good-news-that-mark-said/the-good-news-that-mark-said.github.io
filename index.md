@@ -215,3 +215,69 @@ And the crowd sitting around him said, "You mother and your brothers and sisters
 And he replied, "Who are my mother and my brothers?"
 Looking around at the people who sat around him in a circle, he said,
 "Here are my mother and my brothers! Anyone who does the will of God is my brother and sister and mother."
+
+## Part 4
+
+Again, Jesus began to teach next to the little sea.
+Such a huge crowd gathered around him that he got into a boat on the sea and sat there, and the crowd was near the sea on land.
+He taught them with word pictures, like this one,
+"Listen! A person who grows food went out to throw some tiny starters to the ground to grow into food.
+As the starters were thrown, some of them fell on a foot path, and were eaten by birds.
+Others fell on not-very-deep dirt with rocks.
+The starters grew up a little very quickly because the dirt was not deep.
+But they burned under the hot sun, and died because they didn't go deep into the ground.
+ Others fell in pointy things that grew and crowded them before they got strong so they made no food.
+Still others fell on good earth and gave thirty or twice that or even a hundred times as much food."
+Then he said, "Anyone with ears to hear should hear!"
+
+When Jesus was alone, the ten and two, along with the people around him, asked about the word pictures.
+He replied, "You are allowed to know the hidden things about God's country,
+but to outside people, everything becomes word pictures.
+You know, 'when they see, they will see but not understand, and when they hear,
+they will hear but not understand — if they did, they might change, and their bad acts would be gone!'"
+<small>
+People listening to this would have been reminded of a time that Isaiah said something like this.
+</small>
+
+Then Jesus said to them, "Don't you understand this word picture? Then how will you understand all the word pictures?
+The person who grows food is growing the word.
+The starters that fell beside the path: where the word is thrown to grow,
+when those people who hear it, Satan comes immediately and takes the word that they got.
+The starters that were thrown on dirt with rocks:
+those are the people who immediately receive the word and are happy about it, but they don't have any hold on the ground;
+then when bad things happen to them or they get into trouble because of the word, they immediately fall away.
+
+
+"And others are the ones that got thrown among pointy things: these are the ones that heard the word,
+but the worries of the world and the wanting of money and for everything else come around and press around the word and it makes no food.
+And there are the starters that were thrown on good earth,
+who hear the word and take it and give food: thirty or twice that or one hundred times as much food."
+
+And Jesus said to them,
+"Is a light brought to be put under a big cup or under a bed, and not on a table?
+There isn't anything hidden that won't be revealed, and nothing hidden away that won't come into the open.
+Anyone with ears to hear should hear!"
+
+And he also said, "God's country is like someone throwing starters onto the earth,
+who sleeps and wakes up night and day while the starters come out of the earth and grow, but they don't understand how.
+On its own, the earth gives first the thin part, then the big part, then the food in the big part.
+But when the field is ready, they get out the field-knife, because it is time to bring the food in."
+
+And he also said,
+"What should we say God's country is like? What word picture should we use for it?
+It is like a food starter thrown on the earth.
+Even though it's the smallest of them all, when it is thrown on the ground, it grows up and becomes the biggest grown food,
+and makes branches so the birds of the air can make their homes where it blocks the sun."
+
+With many word pictures like that, he told them the word, as they could hear it.
+He didn't say anything except in word pictures, but alone with his students, he explained everything.
+
+On that day, when it was close to night, he said "Let's go to the other side." And leaving the crowd, they took him in the boat, just the way he was.
+Other boats were with him.
+And there was a huge wind and the waves hit the boat so that it was already getting full of water.
+But Jesus was sleeping on a soft thing in the back of the boat.
+They woke him up and said to him, "Teacher, don't you care that we're going to die?"
+And, waking up, he told the wind off and said to the little sea, "Be still! Be silent!"
+Then the wind died away and everything was calm.
+And Jesus said to them, "Why are you afraid? Do you still not have trust?"
+And they were struck with wonder and fear and said to each other, "Who is this, that even the wind and the sea follow his orders?"
