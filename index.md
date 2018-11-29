@@ -191,7 +191,7 @@ He picked ten and two, whom he called message-carriers, to be with him,
 and to be sent out to tell people the message, and to throw out bad spirits.
 So he picked the ten and two: Simon (whom he called Peter
 <small>The name Peter just means "Rock".</small>
-), James (son of Zebedee) and John the brother of James (whom he called Boanerges, which means "Sons of Loud Sounds From The Sky"),
+), James (son of Zebedee) and John the brother of James (whom he called Boanerges, which means "Sons of Loud Sky Sounds"),
 and Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James (son of Alphaeus),
 and Thaddaeus, and Simon (from Cana), and Judas Iscariot, who would sell Jesus out.
 
