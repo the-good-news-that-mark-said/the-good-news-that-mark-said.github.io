@@ -281,3 +281,72 @@ And, waking up, he told the wind off and said to the little sea, "Be still! Be s
 Then the wind died away and everything was calm.
 And Jesus said to them, "Why are you afraid? Do you still not have trust?"
 And they were struck with wonder and fear and said to each other, "Who is this, that even the wind and the sea follow his orders?"
+
+## Part 5
+
+Jesus and his students arrived at the other side of the little sea, in the country of the Gerasenes.
+When he got out of the boat, he immediately was met by a man with a sick spirit,
+who lived near the dead bodies, and who nobody could keep down, even with a metal puller.
+When people tried to keep him in metal pullers and holders, he would break them, and nobody was strong enough to control him.
+All the time, on the hill or among the dead bodies, he would scream and hurt himself with rocks.
+When he saw Jesus, he ran up and got on his knees in front of him, and yelled
+"What do you have to do with me, Jesus, son of God, the highest? Please, by God, don't hurt me!",
+because Jesus had said "Get out of that man, sick spirit!".
+Then Jesus asked "What is your name?" He replied, "My name is Big-Group-of-Soldiers,
+<small>This was the same kind of big group of soldiers that the Romans used to keep control over the Jews.</small>
+because we are many."
+He asked Jesus not to send them out of the country.
+
+On the hill, there was a huge group of animals (a kind that the Jews wouldn't touch) eating,
+and they asked Jesus to send them into those animals.
+He let them do it.
+The sick spirits entered the animals, and the whole group (twenty hundred of them)
+ran down the hill and into the little sea and died.
+
+The people who kept the animals ran and told everyone in the area.
+Those people came to Jesus and saw the man who had been held by the many sick spirits,
+wearing clothes and with an okay mind, and they were afraid.
+They told other people what had happened with the man and the animals, and they asked Jesus to go away.
+
+As Jesus was getting into the boat, the man who the sick spirits had controlled asked with all his heart for Jesus to be with him.
+But Jesus refused and said "Go to your own peoples' house,
+and tell them everything the owner has done for you, and how he helped you when you were low."
+He left and told people in the Ten Cities everything that Jesus had done for him, and everyone was surprised.
+
+When Jesus had crossed back to the other side of the little sea, a large crowd was gathered around him beside the sea.
+One of the church leaders, named Jarius, came and fell in front of Jesus's feet,
+and asked him over and over, saying
+"My daughter is about to die; if you come and put your hand on her, she will get better, and will live."
+So he went with him.
+
+A large crowd followed, pressing against Jesus.
+There was a woman whose blood had been coming out
+<small>Blood, especially from a woman, was very much not clean,
+and she would not have been able to live a normal life being sick in this way.</small>
+for ten and two years,
+and who had been put through much pain from doctors and spent all her money, but only got sicker.
+When she heard about Jesus, she pushed through the crowd and grabbed his clothing,
+<small>Women were not supposed to touch men.</small>
+thinking "If I can grab even his clothing, I will be get better.".
+Immediately, the river of blood dried up, and she felt in her body that she was no longer sick.
+Immediately knowing that power had reached out of him, he turned around and said "Who grabbed my clothes?".
+His students said "You see this crowd pressing against you? And you say 'Who grabbed me?'!".
+But Jesus looked around to find the person who did it.
+The woman was afraid and shaking, knowing what had happened to her,
+and fell in front of Jesus and told him the whole truth.
+He said, "Daughter, your trust has made you well.
+Go without fear and don't be sick anymore.".
+
+While Jesus was still talking, people came from the church leader's home and said to him
+"You daughter died.
+Why are you still bothering the teacher?"
+But Jesus heard, and said to the church leader, "Don't be afraid, just trust."
+He didn't let anyone follow him except Peter, James, and James's brother John.
+They came to the church leader's house, and he heard the noise and crying and asked
+"Why are you crying and so sad? The child did not die, but is sleeping.".
+They laughed at him, but he put everyone outside,
+and took the child's parents and the ones with him inside to the child.
+He grabbed her hand and said "Little girl, get up!" in Aramaic.
+She immediately got up and walked around (she was about ten and two years old).
+They were very surprised.
+Jesus ordered them to let nobody know about this, and told them to give her something to eat.
