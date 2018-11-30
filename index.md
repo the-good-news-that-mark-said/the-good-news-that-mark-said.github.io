@@ -350,3 +350,91 @@ He grabbed her hand and said "Little girl, get up!" in Aramaic.
 She immediately got up and walked around (she was about ten and two years old).
 They were very surprised.
 Jesus ordered them to let nobody know about this, and told them to give her something to eat.
+
+## Part 6
+
+Jesus left, and went to the town he was from, with his students following him.
+Since it was the resting day, he started to teach in the church.
+Many people were listening to him and were surprised, saying "Where did this one learn these things?
+What is it that he knows so that he can do acts of power?
+Isn't this the wood worker, the son of Mary and the brother of James and Joses and Judas and Simon?
+<small> These are probably different people from Jesus's students with the same names.</small>
+Aren't his sisters here with us?"
+<small>
+This is all to say that they knew Jesus's standing in life because they knew where he came from.
+Men who worked with things like wood often had to go from place to place to find work,
+so they could not stay home with their women; this made them especially low-standing.
+</small>
+Their sense of standing was hurt by him.
+Jesus said to them "Speakers of God's truth have standing except in the town they are from, and among their family, and in their own house."
+He couldn't do any acts of power there, except that he put his hands on a few sick people and made them better.
+He was surprised at how they didn't have trust.
+
+Jesus went around the villages teaching, and came back to where he started.
+He called the ten and two and he sent them out in pairs, giving them power over the sick spirits.
+He said that they should take nothing but a walking stick, shoes, and a single shirt (not two!); no food, nor a bag, nor money.
+He said "When you enter a house, live there until you leave the village.
+If a village doesn't want you to stay or listen to you, leave and shake the dust off your shoes as a mark against them.
+Going out, they taught that people should change their ways,
+they threw out many bad spirits, and they put rich wet food on the heads of sick people,
+<small>This was something people often did to sick people in those days.</small>
+making them better.
+
+Herod the country-owner heard about this, because Jesus was becoming well-known.
+Some people said John, the person who put people in water, had been raised from the dead, and that was why he was acting with power.
+Other people said that he was Elijah.
+<small>The Jews think of Elijah as the greatest of the speakers of God's truth. He had lived almost ten hundred years before.</small>
+Other people said he was a speaker of God's truth, like the ones from the old stories.
+But Herod said "John, whose head I cut off, has been raised.".
+See, Herod himself had sent people to take hold of John and tie him up and keep him,
+because of Herodias, the wife of his brother Philip, whom he had married.
+John had been telling Herod, "You are not allowed to have your brother's wife.".
+Herodias was angry at him and wanted to kill him, but could not, since Herod was afraid of John,
+knowing that he was a good man who was close to God.
+He was thrown back by the things that John said, but he liked to listen to him.
+But then one day, Herod was partying because of the day he was born,
+and he held a dinner for the higher-ups and the great soldiers and the important people of Galilee.
+Herodias's daughter came in and danced, which made Herod and the people at the party happy,
+so he said, "Ask me for anything, and I will give you it.".
+He promised her "I will give you whatever you ask, even half of the country I own.".
+She went out and asked her mother, "What should I ask for?".
+She replied, "The head of John, who put people in the water.".
+Immediately, she came back and said, "I want, on a plate, the head of John who put people in water, right now.".
+The country-owner became very sad because of the promise, and because of the people eating with him — he did not want to refuse her.
+ He immediately sent a killer, and told him to bring John's head.
+He went and cut off his head, brought it in on a plate, and gave it to the girl, who gave it to her mother.
+When they heard about it, John's students came and took his body and put it where dead bodies go.
+
+The ones Jesus had sent out gathered back around him, and told him everything they had done or said.
+He told them, "Come to a wild place alone and rest a little.".
+This was because many people were coming and going, and they didn't even have a chance to eat.
+They went by themselves to the wild place.
+Now lots of people saw them leaving, and knowing where they were going, ran ahead and arrived before them.
+When Jesus got back on land, he saw a huge crowd, and felt for them,
+because they were like a group of simple animals without a field-worker to take care of them, and he taught them a lot.
+It was getting late, and his students came up to him and said
+"This is in the middle of no place, and it's getting late! Send them away to the food-growing places and the villages so they can buy some food."
+But Jesus said "Give them something to eat yourself!", and they said
+"Are we going to go off and spend two hundred pieces of silver
+<small>A piece of silver was what a worker got for one day's work.</small>
+on food and give it to them?".
+Jesus said "How many pieces of dry food do we have? Go check!".
+They went and found out, and said "Five, and two fish.".
+Jesus told them to have everyone lie down in groups on the green grass.
+They lay down
+<small>In that place and in those days, people would eat lying down.</small>
+in groups of around a hundred.
+Taking the five pieces of dry food and two fish, he looked up to the sky and said that the food would be good,
+and broke the pieces and gave them to the students to put in front of the people, and he handed out the two fish to all of them.
+Everyone ate and had more than enough.
+There were about five tens of hundreds of men there.
+
+Immediately, Jesus made his students get into a boat and go ahead to Bethsaida, on the other side, while he sent the crowd away.
+After wishing them well as they went, he went to the mountain to talk to God.
+When it was getting late, the boat was in the middle of the little sea, and Jesus was alone on land.
+Seeing them rowing hard (since the wind was against them) early in the morning, Jesus came towards them, walking on the water, and he was about to walk past them.
+But seeing him walking on the water, the students thought he was a sight without a body, and screamed.
+Everyone saw him and was afraid.
+Immediately, he said "Don't be afraid; it's me!".
+He went up to them in the boat, and calmed the wind, and they were completely surprised,
+because they didn't understand what happened with the pieces of dry food; their hearts could not see.
