@@ -14,11 +14,11 @@ Both of these things sometimes happen even to people who know Greek, even when t
 
 The beginning of the good news about Jesus the Saver, son of God.
 
-Just like what Isaiah (who spoke God’s truth) said:
+Just like what Isaiah (who spoke God's truth) said:
 
-> Look! I am sending someone with a message in front of you who will prepare your way.
-> A voice crying out in the wild places:
-> "Prepare the owner's way! Make his paths straight!"
+> Look! I am sending someone with a message in front of you who will prepare your way.  
+> A voice crying out in the wild places:  
+> "Prepare the owner's way! Make his paths straight!"  
 
 John came, putting people under water
 <small>
