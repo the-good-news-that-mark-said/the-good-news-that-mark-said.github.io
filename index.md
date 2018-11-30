@@ -1,14 +1,20 @@
-_This is an old book written by someone we call Mark, though we don't know Mark's real name.
+_This is an old book written by someone we call Mark, though the writer is not known for sure.
 It is the oldest book that tells the story of the life of Jesus from Nazareth.
-(There are older letters that we have about Jesus, but they don't tell the story about Jesus's life.)
+(There are older letters that we have about Jesus, but this is the oldest story.)
 It was probably written four tens of years after the events it talks about._
 
 _This book was written in the Greek language.
-It has been changed into many other languages, like English.
-I have changed an English writing of this book to use only the ten hundred most often used words in English (and also names).
-Sometimes, I used words that don't mean exactly what Mark wrote, so that I did not have to stop the story to explain what a thing is.
+I have changed it to be written with the ten hundred most used words in English, along with names.
+The list of ten hundred words comes from Randall Munroe (who wrote Thing Explainer).
+I do not know much Greek, so I have worked mostly from English writings of this book.
+Sometimes, I used words that don't mean exactly what Mark wrote,
+so that I did not have to stop the story to explain what a thing is.
 Sometimes, I was not sure what Mark meant by a word or a couple words.
-Both of these things sometimes happen even to people who know Greek, even when they can use all the words in a language._
+Both of these things sometimes happen even to people who know Greek,
+even when they can use all the words in a language._
+
+_I have added notes to try to make some things clear,
+if they would have been understood by people in the place and time that this was written._
 
 ## Part 1
 
@@ -23,7 +29,8 @@ Just like what Isaiah (who spoke God's truth) said:
 John came, putting people under water
 <small>
 The Jews (Jesus's people) follow many laws.
-If you wanted to go to God's house, you had to let a God-worker put you under water first; then you would be clean enough.
+If you wanted to go to God's house, you had to let a God-worker put you under water first;
+then you would be clean enough.
 Other people who wrote about Jesus say that John's father was a God-worker.
 Sons of God-workers were God-workers, but John was not a normal one.
 </small>
@@ -40,7 +47,7 @@ Immediately, the Spirit sent Jesus into a wild place.
 He stayed there for many days, and Satan
 <small>
 The name Satan just means "The One Against Us" in Hebrew.
-There is a bad spirit called Satan that shows up two times in the main books about God that the Jews read.
+There is a spirit called Satan that shows up two times in the main books about God that the Jews read.
 </small>
 tried to make him do bad things.
 He was with the wild animals, and message-holders from God helped him.
@@ -62,7 +69,8 @@ came, he entered the church and taught.
 They were surprised by his teaching, because he taught them like someone who had power,
 not like the people who thought about the law.
 Just then, there was someone in the church who had a sick spirit, and he yelled,
-"What's your business with us, Jesus from Nazareth? Have you come to wipe us out? I know who you are, God's good person!"
+"What's your business with us, Jesus from Nazareth?
+Have you come to wipe us out? I know who you are, God's good person!"
 But Jesus yelled at him, saying "Shut up and come out of him!"
 And making him shake and cry with a loud voice, the sick spirit came out of him.
 They were surprised, and kept asking each other,
@@ -80,10 +88,13 @@ which he didn't allow to speak, since they knew him.
 In the morning, when it was still very dark, he got up and went away from town and talked to God.
 Simon and his friends looked around for him.
 When they found him, they said "Everyone is searching for you!"
-He answered, "Let's go to towns that are near so that I may give them my message also, since that's what I came out to do."
+He answered, "Let's go to towns that are near so that I may give them my message also, 
+since that's what I came out to do."
 And he went around, talking in churches around there, and getting rid of sick spirits.
 
-Someone with bad skin came to Jesus, got on his knees, and said "If you want, you can make me clean."
+Someone with bad skin
+<small>People with bad skin had to live away from everyone else.</small>
+came to Jesus, got on his knees, and said "If you want, you can make me clean."
 Jesus felt bad for him, and touched him, saying "I do want to: be clean."
 Immediately, his skin got better, and he was clean.
 Jesus sent him away, saying in a serious tone,
@@ -111,16 +122,17 @@ But so you can know that The Human
 <small>
 Jesus used "The Human" to talk about himself.
 Probably, when people heard it, they would remember a time when Daniel (a great old Jewish person)
-said he saw God on a big chair on fire give the world to "one who looked like a human".
+said he saw God (on fire) on a big chair (also on fire) give the world to "one who looked like a human".
 </small>
-has the right to get rid of bad acts on earth--"
+has the right to get rid of bad acts on earth—"
 he said to the man who could not move,
 "I tell you, stand up, take your bed, and go to your home!"
 And he got up, and immediately took his little bed, and went out in front of everyone.
 They were surprised and said God was great, and said "We've never seen anything like this!"
 
 Jesus went out again beside the little sea, and the whole crowd gathered around him, and he taught them.
-As he walked along, he saw Levi, son of Alphaeus, sitting in his fee-taker's office,and he said to him, "Follow me."
+As he walked along, he saw Levi, son of Alphaeus, sitting in his fee-taker's office,
+and he said to him, "Follow me."
 And he got up and followed him.
 
 And as he ate dinner at Levi's, many fee-takers and bad-thing-doers
@@ -149,7 +161,8 @@ But days will come when he is taken away from them, and on that day, they will n
 
 "No one fixes an old piece of clothing with new clothing-pieces that have not gotten smaller from washing it yet;
 if they did, the new piece would pull away from it, and leave a worse hole.
-And no one puts new wine into old wine bags; if they did, the wine will break the wine bag, and the wine will be lost.
+And no one puts new wine into old wine bags;
+if they did, the wine will break the wine bag, and the wine will be lost.
 Instead, one puts new wine into new wine bags."
 
 On the resting day, Jesus was walking through the fields of growing food,
@@ -191,7 +204,8 @@ He picked ten and two, whom he called message-carriers, to be with him,
 and to be sent out to tell people the message, and to throw out bad spirits.
 So he picked the ten and two: Simon (whom he called Peter
 <small>The name Peter just means "Rock".</small>
-), James (son of Zebedee) and John the brother of James (whom he called Boanerges, which means "Sons of Loud Sky Sounds"),
+), James (son of Zebedee) and John the brother of James
+(whom he called Boanerges, which means "Sons of Loud Sky Sounds"),
 and Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James (son of Alphaeus),
 and Thaddaeus, and Simon (from Cana), and Judas Iscariot, who would sell Jesus out.
 
@@ -204,7 +218,8 @@ And he called out to them, and spoke to them in word pictures, saying,
 And if a country fights itself, that country cannot stand.
 And if a house fights itself, it will not be possible for that house to stand.
 And if Satan stood up against itself and is broken into two, it will not stand, but it has come to an end.
-But no one can come into a strong man's house and steal his things, without first tying up the strong man; then the house can be stolen from.
+But no one can come into a strong man's house and steal his things, without first tying up the strong man;
+then the house can be stolen from.
 
 "This is the truth: all the bad things humans have done and all the bad lies tell will be wiped away.
 But anyone who lies against the Good Spirit will keep their bad acts, and has done a bad thing that does not end."
@@ -219,14 +234,15 @@ Looking around at the people who sat around him in a circle, he said,
 ## Part 4
 
 Again, Jesus began to teach next to the little sea.
-Such a huge crowd gathered around him that he got into a boat on the sea and sat there, and the crowd was near the sea on land.
+Such a huge crowd gathered around him that he got into a boat on the sea and sat there,
+and the crowd was near the sea on land.
 He taught them with word pictures, like this one,
 "Listen! A person who grows food went out to throw some tiny starters to the ground to grow into food.
 As the starters were thrown, some of them fell on a foot path, and were eaten by birds.
 Others fell on not-very-deep dirt with rocks.
 The starters grew up a little very quickly because the dirt was not deep.
 But they burned under the hot sun, and died because they didn't go deep into the ground.
- Others fell in pointy things that grew and crowded them before they got strong so they made no food.
+Others fell in pointy things that grew and crowded them before they got strong so they made no food.
 Still others fell on good earth and gave thirty or twice that or even a hundred times as much food."
 Then he said, "Anyone with ears to hear should hear!"
 
@@ -239,17 +255,20 @@ they will hear but not understand — if they did, they might change, and their 
 People listening to this would have been reminded of a time that Isaiah said something like this.
 </small>
 
-Then Jesus said to them, "Don't you understand this word picture? Then how will you understand all the word pictures?
+Then Jesus said to them, "Don't _you_ understand this word picture? 
+Then how will you understand all the word pictures?
 The person who grows food is growing the word.
 The starters that fell beside the path: where the word is thrown to grow,
 when those people who hear it, Satan comes immediately and takes the word that they got.
 The starters that were thrown on dirt with rocks:
-those are the people who immediately receive the word and are happy about it, but they don't have any hold on the ground;
+those are the people who immediately receive the word and are happy about it, 
+but they don't have any hold on the ground;
 then when bad things happen to them or they get into trouble because of the word, they immediately fall away.
 
 
 "And others are the ones that got thrown among pointy things: these are the ones that heard the word,
-but the worries of the world and the wanting of money and for everything else come around and press around the word and it makes no food.
+but the worries of the world and the wanting of money and for everything else
+come around and press around the word and it makes no food.
 And there are the starters that were thrown on good earth,
 who hear the word and take it and give food: thirty or twice that or one hundred times as much food."
 
@@ -259,20 +278,23 @@ There isn't anything hidden that won't be revealed, and nothing hidden away that
 Anyone with ears to hear should hear!"
 
 And he also said, "God's country is like someone throwing starters onto the earth,
-who sleeps and wakes up night and day while the starters come out of the earth and grow, but they don't understand how.
-On its own, the earth gives first the thin part, then the big part, then the food in the big part.
+who sleeps and wakes up night and day while the starters come out of the earth and grow,
+but they don't understand how.
+On its own, the earth gives first the thin part, then the big part, then the grass food in the big part.
 But when the field is ready, they get out the field-knife, because it is time to bring the food in."
 
 And he also said,
 "What should we say God's country is like? What word picture should we use for it?
 It is like a food starter thrown on the earth.
-Even though it's the smallest of them all, when it is thrown on the ground, it grows up and becomes the biggest grown food,
+Even though it's the smallest of them all, when it is thrown on the ground,
+it grows up and becomes the biggest grown food,
 and makes branches so the birds of the air can make their homes where it blocks the sun."
 
 With many word pictures like that, he told them the word, as they could hear it.
 He didn't say anything except in word pictures, but alone with his students, he explained everything.
 
-On that day, when it was close to night, he said "Let's go to the other side." And leaving the crowd, they took him in the boat, just the way he was.
+On that day, when it was close to night, he said "Let's go to the other side."
+And leaving the crowd, they took him in the boat, just the way he was.
 Other boats were with him.
 And there was a huge wind and the waves hit the boat so that it was already getting full of water.
 But Jesus was sleeping on a soft thing in the back of the boat.
@@ -280,14 +302,16 @@ They woke him up and said to him, "Teacher, don't you care that we're going to d
 And, waking up, he told the wind off and said to the little sea, "Be still! Be silent!"
 Then the wind died away and everything was calm.
 And Jesus said to them, "Why are you afraid? Do you still not have trust?"
-And they were struck with wonder and fear and said to each other, "Who is this, that even the wind and the sea follow his orders?"
+And they were struck with wonder and fear and said to each other,
+"Who is this, that even the wind and the sea follow his orders?"
 
 ## Part 5
 
 Jesus and his students arrived at the other side of the little sea, in the country of the Gerasenes.
 When he got out of the boat, he immediately was met by a man with a sick spirit,
 who lived near the dead bodies, and who nobody could keep down, even with a metal puller.
-When people tried to keep him in metal pullers and holders, he would break them, and nobody was strong enough to control him.
+When people tried to keep him in metal pullers and holders,
+he would break them, and nobody was strong enough to control him.
 All the time, on the hill or among the dead bodies, he would scream and hurt himself with rocks.
 When he saw Jesus, he ran up and got on his knees in front of him, and yelled
 "What do you have to do with me, Jesus, son of God, the highest? Please, by God, don't hurt me!",
@@ -308,12 +332,14 @@ Those people came to Jesus and saw the man who had been held by the many sick sp
 wearing clothes and with an okay mind, and they were afraid.
 They told other people what had happened with the man and the animals, and they asked Jesus to go away.
 
-As Jesus was getting into the boat, the man who the sick spirits had controlled asked with all his heart for Jesus to be with him.
+As Jesus was getting into the boat,
+the man who the sick spirits had controlled asked with all his heart for Jesus to be with him.
 But Jesus refused and said "Go to your own peoples' house,
 and tell them everything the owner has done for you, and how he helped you when you were low."
 He left and told people in the Ten Cities everything that Jesus had done for him, and everyone was surprised.
 
-When Jesus had crossed back to the other side of the little sea, a large crowd was gathered around him beside the sea.
+When Jesus had crossed back to the other side of the little sea,
+a large crowd was gathered around him beside the sea.
 One of the church leaders, named Jarius, came and fell in front of Jesus's feet,
 and asked him over and over, saying
 "My daughter is about to die; if you come and put your hand on her, she will get better, and will live."
@@ -366,24 +392,30 @@ Men who worked with things like wood often had to go from place to place to find
 so they could not stay home with their women; this made them especially low-standing.
 </small>
 Their sense of standing was hurt by him.
-Jesus said to them "Speakers of God's truth have standing except in the town they are from, and among their family, and in their own house."
+Jesus said to them
+"Speakers of God's truth have standing except in the town they are from,
+and among their family, and in their own house."
 He couldn't do any acts of power there, except that he put his hands on a few sick people and made them better.
 He was surprised at how they didn't have trust.
 
 Jesus went around the villages teaching, and came back to where he started.
 He called the ten and two and he sent them out in pairs, giving them power over the sick spirits.
-He said that they should take nothing but a walking stick, shoes, and a single shirt (not two!); no food, nor a bag, nor money.
+He said that they should take nothing but a walking stick, shoes, and a single shirt (not two!);
+no food, nor a bag, nor money.
 He said "When you enter a house, live there until you leave the village.
-If a village doesn't want you to stay or listen to you, leave and shake the dust off your shoes as a mark against them.
+If a village doesn't want you to stay or listen to you,
+leave and shake the dust off your shoes as a mark against them.
 Going out, they taught that people should change their ways,
 they threw out many bad spirits, and they put rich wet food on the heads of sick people,
 <small>This was something people often did to sick people in those days.</small>
 making them better.
 
 Herod the country-owner heard about this, because Jesus was becoming well-known.
-Some people said John, the person who put people in water, had been raised from the dead, and that was why he was acting with power.
+Some people said John, the person who put people in water,
+had been raised from the dead, and that was why he was acting with power.
 Other people said that he was Elijah.
-<small>The Jews think of Elijah as the greatest of the speakers of God's truth. He had lived almost ten hundred years before.</small>
+<small>The Jews think of Elijah as the greatest of the speakers of God's truth.
+He had lived almost ten hundred years before.</small>
 Other people said he was a speaker of God's truth, like the ones from the old stories.
 But Herod said "John, whose head I cut off, has been raised.".
 See, Herod himself had sent people to take hold of John and tie him up and keep him,
@@ -400,8 +432,9 @@ He promised her "I will give you whatever you ask, even half of the country I ow
 She went out and asked her mother, "What should I ask for?".
 She replied, "The head of John, who put people in the water.".
 Immediately, she came back and said, "I want, on a plate, the head of John who put people in water, right now.".
-The country-owner became very sad because of the promise, and because of the people eating with him — he did not want to refuse her.
- He immediately sent a killer, and told him to bring John's head.
+The country-owner became very sad because of the promise,
+and because of the people eating with him — he did not want to refuse her.
+He immediately sent a killer, and told him to bring John's head.
 He went and cut off his head, brought it in on a plate, and gave it to the girl, who gave it to her mother.
 When they heard about it, John's students came and took his body and put it where dead bodies go.
 
@@ -411,30 +444,35 @@ This was because many people were coming and going, and they didn't even have a 
 They went by themselves to the wild place.
 Now lots of people saw them leaving, and knowing where they were going, ran ahead and arrived before them.
 When Jesus got back on land, he saw a huge crowd, and felt for them,
-because they were like a group of simple animals without a field-worker to take care of them, and he taught them a lot.
+because they were like a group of simple animals without a field-worker to take care of them,
+and he taught them a lot.
 It was getting late, and his students came up to him and said
-"This is in the middle of no place, and it's getting late! Send them away to the food-growing places and the villages so they can buy some food."
+"This is in the middle of no place, and it's getting late!
+Send them away to the food-growing places and the villages so they can buy some food."
 But Jesus said "Give them something to eat yourself!", and they said
 "Are we going to go off and spend two hundred pieces of silver
 <small>A piece of silver was what a worker got for one day's work.</small>
 on food and give it to them?".
-Jesus said "How many pieces of dry food do we have? Go check!".
+Jesus said "How many pieces of dry grass food do we have? Go check!".
 They went and found out, and said "Five, and two fish.".
 Jesus told them to have everyone lie down in groups on the green grass.
 They lay down
 <small>In that place and in those days, people would eat lying down.</small>
 in groups of around a hundred.
 Taking the five pieces of dry food and two fish, he looked up to the sky and said that the food would be good,
-and broke the pieces and gave them to the students to put in front of the people, and he handed out the two fish to all of them.
+and broke the pieces and gave them to the students to put in front of the people,
+and he handed out the two fish to all of them.
 Everyone ate and had more than enough.
 There were about five tens of hundreds of men there.
 
-Immediately, Jesus made his students get into a boat and go ahead to Bethsaida, on the other side, while he sent the crowd away.
+Immediately, Jesus made his students get into a boat and go ahead to Bethsaida,
+on the other side, while he sent the crowd away.
 After wishing them well as they went, he went to the mountain to talk to God.
 When it was getting late, the boat was in the middle of the little sea, and Jesus was alone on land.
-Seeing them rowing hard (since the wind was against them) early in the morning, Jesus came towards them, walking on the water, and he was about to walk past them.
-But seeing him walking on the water, the students thought he was a sight without a body, and screamed.
+Seeing them rowing hard (since the wind was against them) early in the morning,
+Jesus came towards them, walking on the water, and he was about to walk past them.
+But seeing him walking on the water, the students thought he was a spirit without a body, and screamed.
 Everyone saw him and was afraid.
 Immediately, he said "Don't be afraid; it's me!".
 He went up to them in the boat, and calmed the wind, and they were completely surprised,
-because they didn't understand what happened with the pieces of dry food; their hearts could not see.
+because they didn't understand what happened with the pieces of dry grass food; their hearts could not see.
