@@ -22,9 +22,9 @@ The beginning of the good news about Jesus the Saver, son of God.
 
 Just like what Isaiah (who spoke God's truth) said:
 
-> Look! I am sending someone with a message in front of you who will prepare your way.  
-> A voice crying out in the wild places:  
-> "Prepare the owner's way! Make his paths straight!"  
+> Look! I am sending someone with a message in front of you who will prepare your way. \
+> A voice crying out in the wild places: \
+> "Prepare the owner's way! Make his paths straight!"
 
 John came, putting people under water
 <small>
@@ -88,7 +88,7 @@ which he didn't allow to speak, since they knew him.
 In the morning, when it was still very dark, he got up and went away from town and talked to God.
 Simon and his friends looked around for him.
 When they found him, they said "Everyone is searching for you!"
-He answered, "Let's go to towns that are near so that I may give them my message also, 
+He answered, "Let's go to towns that are near so that I may give them my message also,
 since that's what I came out to do."
 And he went around, talking in churches around there, and getting rid of sick spirits.
 
@@ -255,13 +255,13 @@ they will hear but not understand — if they did, they might change, and their 
 People listening to this would have been reminded of a time that Isaiah said something like this.
 </small>
 
-Then Jesus said to them, "Don't _you_ understand this word picture? 
+Then Jesus said to them, "Don't _you_ understand this word picture?
 Then how will you understand all the word pictures?
 The person who grows food is growing the word.
 The starters that fell beside the path: where the word is thrown to grow,
 when those people who hear it, Satan comes immediately and takes the word that they got.
 The starters that were thrown on dirt with rocks:
-those are the people who immediately receive the word and are happy about it, 
+those are the people who immediately receive the word and are happy about it,
 but they don't have any hold on the ground;
 then when bad things happen to them or they get into trouble because of the word, they immediately fall away.
 
