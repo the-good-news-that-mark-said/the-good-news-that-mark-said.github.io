@@ -45,6 +45,11 @@ and he ate big flies and wild yellow sweet stuff.
 He said "A stronger person than me is coming after me, and I am not good enough to tie his shoes.
 I washed you in water, but he will wash you in God's Spirit."
 
+In those days, Jesus came from Nazareth in Galilee and John washed him in the Jordan.
+Immediately when he came out of the water, he saw the sky open,
+and the Spirit came down on him like a bird,
+and a voice from the sky said "You are my son, you are loved, and I think you are good."
+
 Immediately, the Spirit sent Jesus into a wild place.
 He stayed there for many days, and Satan
 <small>
