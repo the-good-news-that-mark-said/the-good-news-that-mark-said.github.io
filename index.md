@@ -5,7 +5,7 @@ It was probably written four tens of years after the events it talks about._
 
 _This book was written in the Greek language.
 I have changed it to be written with the ten hundred most used words in English, along with names.
-The list of ten hundred words comes from Randall Munroe (who wrote Thing Explainer).
+The set of ten hundred words comes from Randall Munroe (who wrote Thing Explainer).
 I do not know much Greek, so I have worked mostly from English writings of this book.
 Sometimes, I used words that don't mean exactly what Mark wrote,
 so that I did not have to stop the story to explain what a thing is.
