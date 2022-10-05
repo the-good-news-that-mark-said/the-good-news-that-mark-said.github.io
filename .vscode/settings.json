@@ -29,4 +29,10 @@
     ],
     "cSpell.language": "simpleen",
     "editor.trimAutoWhitespace": false,
+    "cSpell.ignoreRegExpList": [
+        "/'s/",
+        "/'d/",
+        "/'ve/",
+        "/'re/"
+    ],
 }
