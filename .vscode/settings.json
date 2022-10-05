@@ -1,0 +1,32 @@
+{
+    "cSpell.maxNumberOfProblems": 1000,
+    "cSpell.minWordLength": 2,
+    "cSpell.diagnosticLevel": "Error",
+    "cSpell.files": [
+        "*"
+    ],
+    "cSpell.dictionaryDefinitions": [
+        { "name": "simplewords", "path": "/mnt/c/Users/pauls/the-good-news-that-mark-said.github.io/dictionary"}
+    ],
+    "cSpell.dictionaries": [
+        "simplewords",
+        "!aws",
+        "!companies",
+        "!filetypes",
+        "!node",
+        "!npm",
+        "!public-licenses",
+        "!softwareTerms",
+        "!html",
+        "!html-symbol-entities",
+        "!cryptocurrencies",
+        "!backwards-compatibility"
+    ],
+    "cSpell.languageSettings": [
+        { "languageId": "simpleen",
+           "dictionaries": ["simplewords", "!aws"]
+        }
+    ],
+    "cSpell.language": "simpleen",
+    "editor.trimAutoWhitespace": false,
+}
