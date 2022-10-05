@@ -28,7 +28,7 @@ Just like what Isaiah (who spoke God's truth) said:
 > A voice crying out in the wild places: \
 > "Prepare the owner's way! Make his paths straight!"
 
-John came, putting people under water
+John came, washing people
 <small>
 The Jews (Jesus's people) follow many laws.
 If you wanted to go to God's house, you had to let a God-worker put you under water first;
@@ -37,11 +37,11 @@ Other people who wrote about Jesus say that John's father was a God-worker.
 Sons of God-workers were God-workers, but John was not a normal one.
 </small>
 in a wild place,
-and told people about being put under water and changing to get rid of bad acts.
+and told people about being washing to change to get rid of bad acts.
 People from all over Judea (even from Jerusalem) went out to him,
-and he put them in the Jordan and they admitted what they had done wrong.
+and he washed them in the Jordan and they admitted what they had done wrong.
 John wore clothing made from animal hair, an animal-skin ring around his middle,
-and he ate tiny flying animals and wild sweet stuff from other tiny flying animals.
+and he ate big flies and wild yellow sweet stuff.
 He said "A stronger person than me is coming after me, and I am not good enough to tie his shoes.
 I washed you in water, but he will wash you in God's Spirit."
 
