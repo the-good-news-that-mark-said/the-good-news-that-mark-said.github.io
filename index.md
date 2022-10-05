@@ -1,9 +1,10 @@
-_This is an old book written by someone we call Mark, though the writer is not known for sure.
+<i>
+This is an old book written by someone we call Mark, though the writer is not known for sure.
 It is the oldest book that tells the story of the life of Jesus from Nazareth.
 (There are older letters that we have about Jesus, but this is the oldest story.)
-It was probably written four tens of years after the events it talks about._
+It was probably written four tens of years after the events it talks about.
 
-_This book was written in the Greek language.
+This book was written in the Greek language.
 I have changed it to be written with the ten hundred most used words in English, along with names.
 The set of ten hundred words comes from Randall Munroe (who wrote Thing Explainer).
 I do not know much Greek, so I have worked mostly from English writings of this book.
@@ -11,10 +12,11 @@ Sometimes, I used words that don't mean exactly what Mark wrote,
 so that I did not have to stop the story to explain what a thing is.
 Sometimes, I was not sure what Mark meant by a word or a couple words.
 Both of these things sometimes happen even to people who know Greek,
-even when they can use all the words in a language._
+even when they can use all the words in a language.
 
-_I have added notes to try to make some things clear,
-if they would have been understood by people in the place and time that this was written._
+I have added notes to try to make some things clear,
+if they would have been understood by people in the place and time that this was written.
+</i>
 
 ## Part 1
 
