@@ -3,7 +3,9 @@ This is an old book written by someone we call Mark, though the writer is not kn
 It is the oldest book that tells the story of the life of Jesus from Nazareth.
 (There are older letters that we have about Jesus, but this is the oldest story.)
 It was probably written four tens of years after the events it talks about.
+</i>
 
+<i>
 This book was written in the Greek language.
 I have changed it to be written with the ten hundred most used words in English, along with names.
 The set of ten hundred words comes from Randall Munroe (who wrote Thing Explainer).
@@ -13,7 +15,9 @@ so that I did not have to stop the story to explain what a thing is.
 Sometimes, I was not sure what Mark meant by a word or a couple words.
 Both of these things sometimes happen even to people who know Greek,
 even when they can use all the words in a language.
+</i>
 
+<i>
 I have added notes to try to make some things clear,
 if they would have been understood by people in the place and time that this was written.
 </i>
@@ -50,7 +54,7 @@ Immediately when he came out of the water, he saw the sky open,
 and the Spirit came down on him like a bird,
 and a voice from the sky said "You are my son, you are loved, and I think you are good."
 
-Immediately, the Spirit sent Jesus into a wild place.
+Immediately, the Spirit made Jesus go to a wild place.
 He stayed there for many days, and Satan
 <small>
 The name Satan just means "The One Against Us" in Hebrew.
@@ -77,7 +81,7 @@ They were surprised by his teaching, because he taught them like someone who had
 not like the people who thought about the law.
 Just then, there was someone in the church who had a sick spirit, and he yelled,
 "What's your business with us, Jesus from Nazareth?
-Have you come to wipe us out? I know who you are, God's good person!"
+Have you come to wipe us out? I know who you are, God's special person!"
 But Jesus yelled at him, saying "Shut up and come out of him!"
 And making him shake and cry with a loud voice, the sick spirit came out of him.
 They were surprised, and kept asking each other,
@@ -229,7 +233,7 @@ But no one can come into a strong man's house and steal his things, without firs
 then the house can be stolen from.
 
 "This is the truth: all the bad things humans have done and all the bad lies tell will be wiped away.
-But anyone who lies against the Good Spirit will keep their bad acts, and has done a bad thing that does not end."
+But anyone who lies against the God's Special Spirit will keep their bad acts, and has done a bad thing that does not end."
 — this was because they were saying he had a sick spirit.
 
 Then Jesus' mother and brothers came and stood outside and sent for him.
@@ -418,7 +422,7 @@ they threw out many bad spirits, and they put rich wet food on the heads of sick
 making them better.
 
 Herod the country-owner heard about this, because Jesus was becoming well-known.
-Some people said John, the person who put people in water,
+Some people said John, who washed people,
 had been raised from the dead, and that was why he was acting with power.
 Other people said that he was Elijah.
 <small>The Jews think of Elijah as the greatest of the speakers of God's truth.
@@ -429,7 +433,7 @@ See, Herod himself had sent people to take hold of John and tie him up and keep 
 because of Herodias, the wife of his brother Philip, whom he had married.
 John had been telling Herod, "You are not allowed to have your brother's wife.".
 Herodias was angry at him and wanted to kill him, but could not, since Herod was afraid of John,
-knowing that he was a good man who was close to God.
+knowing that he was a special man who was close to God.
 He was thrown back by the things that John said, but he liked to listen to him.
 But then one day, Herod was partying because of the day he was born,
 and he held a dinner for the higher-ups and the great soldiers and the important people of Galilee.
@@ -437,8 +441,8 @@ Herodias's daughter came in and danced, which made Herod and the people at the p
 so he said, "Ask me for anything, and I will give you it.".
 He promised her "I will give you whatever you ask, even half of the country I own.".
 She went out and asked her mother, "What should I ask for?".
-She replied, "The head of John, who put people in the water.".
-Immediately, she came back and said, "I want, on a plate, the head of John who put people in water, right now.".
+She replied, "The head of John, who washed people.".
+Immediately, she came back and said, "I want, on a plate, the head of John who washed people, right now.".
 The country-owner became very sad because of the promise,
 and because of the people eating with him — he did not want to refuse her.
 He immediately sent a killer, and told him to bring John's head.
@@ -469,8 +473,8 @@ in groups of around a hundred.
 Taking the five pieces of dry food and two fish, he looked up to the sky and said that the food would be good,
 and broke the pieces and gave them to the students to put in front of the people,
 and he handed out the two fish to all of them.
-Everyone ate and had more than enough.
-There were about five tens of hundreds of men there.
+Everyone ate and had more than enough, and they picked up ten and two full boxes of food bits and fish.
+There were about five tens of hundreds of men who ate.
 
 Immediately, Jesus made his students get into a boat and go ahead to Bethsaida,
 on the other side, while he sent the crowd away.
@@ -483,3 +487,52 @@ Everyone saw him and was afraid.
 Immediately, he said "Don't be afraid; it's me!".
 He went up to them in the boat, and calmed the wind, and they were completely surprised,
 because they didn't understand what happened with the pieces of dry grass food; their hearts could not see.
+
+They crossed the water and landed at Gennesaret.
+When they got out of the boat, people immediately recognized him, and ran around the area,
+bringing sick people on little beds to where ever they heard he was.
+Every time he entered a village or city or field, they laid the sick in the center area,
+asking to touch the edge of his clothes, and everyone who did was became well.
+
+## Part 7
+
+The Pharisees and some people who thought about the law came from Jerusalem and gathered around him.
+They saw that some of his students were eating with not-clean hands (they hadn't washed them).
+See, the Pharisees and all the other Jews keep the way the old people did things
+and don't eat without washing their hands carefully.
+When they come back from buying food, they don't eat until they've washed themselves,
+and there are many other old ways that they keep, like washing cups and food holders.
+So the Pharisees and people who thought about the law asked him
+"Why don't they follow the old ways? Why do they eat with not-clean hands?".
+Jesus replied, "Isaiah was right when he said you'd act as if you were good:
+
+> They give lip service, but their heart is far away.
+> They hold me high in an empty way, teaching human ways as if they were God's.
+
+You ignore God's law and follow old human ways."
+
+He said, "You're good at dropping God's law to keep your old ways.
+Moses said 'Care about your parents.' and 'The person who bad-mouths their parents has to die.'.
+But you say that someone can tell their parents "This is an offering to God",
+and they're not allowed to use it to help them.
+It empties God's word for your old ways, and you do a lot of things like this!
+
+Jesus brought the crowd back and said
+"Listen and understand, all of you: Nothing outside of a person can make them not clean.
+Things that come out of a person make them not clean."
+
+Later, when Jesus left the crowd and entered a house, his students asked him about the word picture.
+He said "Are you also not understanding?
+Don't you get that whatever goes into a person goes to their stomach, not their heart,
+and goes out in the bathroom?" (He was saying that all foods are clean.
+<small>Some foods were not allowed because they were considered not clean.</small>)
+He said "The things that come out of a person make them not clean.
+It's a person's heart that bad thoughts come out of:
+sex for bad reasons, stealing, killing, sex with someone married to someone else,
+wanting more things, bad acts that make pain, lies to control people,
+hard hurting acts out in the open, wanting to break other people's things, bad lies,
+looking down on others, and being short-sighted.
+All these bad pain-making things come out from inside and make a person not-clean."
+
+Jesus rose and went to the area around Tyre.
+When he entered a house, he wanted no one to know, but he could not hide.
