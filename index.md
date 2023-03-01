@@ -41,7 +41,7 @@ Other people who wrote about Jesus say that John's father was a God-worker.
 Sons of God-workers were God-workers, but John was not a normal one.
 </small>
 in a wild place,
-and told people about being washing to change to get rid of bad acts.
+and told people about being washed to change to get rid of bad acts.
 People from all over Judea (even from Jerusalem) went out to him,
 and he washed them in the Jordan and they admitted what they had done wrong.
 John wore clothing made from animal hair, an animal-skin ring around his middle,
@@ -66,7 +66,7 @@ He was with the wild animals, and message-holders from God helped him.
 Now, after John was locked up, Jesus came to Galilee, talking about the good news of God, and saying
 "The time is right, and God's country is getting close. Change your life, and trust the good news."
 
-When Jesus walked by the little sea Galilee, he saw Simon and his brother Andrew,
+When Jesus walked by the Sea of Galilee, he saw Simon and his brother Andrew,
 who were putting fish screens in the little sea, because they were fish-catchers.
 And Jesus said to them, "Follow me, and I will make you person-catchers!"
 They immediately dropped their fish screens and followed him.
@@ -168,7 +168,7 @@ Now John's students and the Pharisees were not eating.
 People said to Jesus, "Why is it that John's students and the Pharisees do not eat, but your students do?".
 Jesus said to them, "The wedding party eats while the husband-to-be is with them, don't they?
 As long as he is with them, they cannot avoid eating.
-But days will come when he is taken away from them, and on that day, they will not eat.
+But days will come when he is taken away from them, and on that day, they will not eat."
 
 "No one fixes an old piece of clothing with new clothing-pieces that have not gotten smaller from washing it yet;
 if they did, the new piece would pull away from it, and leave a worse hole.
@@ -536,3 +536,23 @@ All these bad pain-making things come out from inside and make a person not-clea
 
 Jesus rose and went to the area around Tyre.
 When he entered a house, he wanted no one to know, but he could not hide.
+Right after hearing about him, a woman whose daughter had a sick spirit came
+and fell in front of Jesus' feet.
+She was not a Jew; she was born Syrian, and she kept asking him to throw the spirit out of her daughter.
+He said "Let the children eat first; it's not good to take their food and throw it to dogs."
+But she said "Owner, even the dogs under the table eat the children's dropped food bits."
+He said "Because you said that, go; the spirit has gone out of your daughter."
+She went home and found her daughter lying in bed, with the spirit gone.
+
+Leaving Tyre, Jesus came through Sidon to the Sea of Galilee through the Ten Cities.
+They brought him a man who could not hear and had trouble speaking, and asked him to put his hand on him.
+Jesus took him away from the crowd, and, alone, put his fingers in the man's ears,
+and put out some mouth water onto the man's tongue.
+Jesus looked up to the sky, made a loud sound, and said "Be opened!" in Aramaic.
+Immediately, his ears were opened and his tongue became not-stuck, and he began to speak like normal.
+Jesus told them not to tell anyone, but the more he did, the more they told the story.
+They were struck very much, saying
+"He does everything well; he makes people hear who couldn't, and people talk who couldn't!"
+
+## Part 8
+
