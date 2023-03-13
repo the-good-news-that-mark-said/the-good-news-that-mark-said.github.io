@@ -513,7 +513,7 @@ You ignore God's law and follow old human ways."
 
 He said, "You're good at dropping God's law to keep your old ways.
 Moses said 'Care about your parents.' and 'The person who bad-mouths their parents has to die.'.
-But you say that someone can tell their parents "This is an offering to God",
+But you say that someone can tell their parents "This is an offering to God,"
 and they're not allowed to use it to help them.
 It empties God's word for your old ways, and you do a lot of things like this!
 
@@ -556,3 +556,53 @@ They were struck very much, saying
 
 ## Part 8
 
+Again in those days, there was a big crowd who had no food.
+Jesus called his students to him and said,
+"I feel sorry for the crowd, because they have been following me
+for three days with nothing to eat.
+Some of them have come so far that if I send them away without food,
+they might fall over on the way back."
+His students said "Where can anyone get food in this dry place?"
+He asked them, "How many pieces of dry grass food do you have?",
+and they said "Seven."
+He told the crowd to lie on the ground, and he took the pieces,
+thanked God for them, broke them into pieces,
+and gave them to his students to serve them.
+They served them to the crowd.
+They had a few small fish and Jesus gave them good words,
+and had his students serve them.
+Everyone ate and was full.
+They gathered the pieces that were left and they filled seven boxes.
+The crowd had about four tens of hundreds.
+Jesus sent them away.
+Immediately, he got into a boat and went to the place called Dalmanutha.
+
+The Pharisees came out and had words with Jesus,
+asking him for a sign God to see what he would do.
+Jesus made a loud sound from his heart and said,
+"Why does this family these days look for a sign?
+This is the truth: there won't be a sign for them."
+He left them and went to the other side.
+
+They forgot to bring the food; they had just a single piece with them in the boat.
+Jesus was teaching them, saying,
+"Watch out for the lifting stuff
+<small>This is the kind of living thing that makes dry grass food full of air and big.
+During the Passover special days, the law says that you must not eat food with lifting stuff in it.</small>
+of the Pharisees and Herod!"
+They figured that Jesus was saying that because they didn't have the food.
+Jesus knew what they were thinking and said,
+"Why do you think it is about not having food? Don't you understand?
+Are your hearts hard? With your eyes, don't you see? With your ears, don't you hear? Don't you remember?
+When I broke five pieces of food for five tens of hundreds of people, how many boxes of bits did you gather up?"
+They said, "Ten and two."
+"When I broke seven pieces of food for four tens of hundreds, how many boxes of bits did you gather up?"
+They said, "Seven."
+Jesus said "Don't you understand?"
+
+They came to Bethsaida and they brought him a man who couldn't see and asked him to touch him.
+Jesus took his hand and took him out of the village and put mouth water on his eyes and put his hands on him.
+Jesus asked, "Do you see anything?"
+He looked up and said, "I see people like trees walking around."
+Jesus put his hands on his eyes and and he opened them and could see everything clearly.
+Jesus sent him home saying, "You may not enter the village."
