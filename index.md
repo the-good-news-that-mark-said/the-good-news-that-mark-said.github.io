@@ -606,3 +606,34 @@ Jesus asked, "Do you see anything?"
 He looked up and said, "I see people like trees walking around."
 Jesus put his hands on his eyes and and he opened them and could see everything clearly.
 Jesus sent him home saying, "You may not enter the village."
+
+Then Jesus and his students went out to the villages of Caesarea and Philippi.
+On the way, he asked them, "Who do people say that I am?"
+They replied, "Some people say John Who Washed People, other people say Elijah,
+and others say one of the people who tells God's truth."
+He asked them "Who do you say that I am?"
+Peter replied, "You are the Saver."
+<small>The books about God that the Jews read say that there would be a country-owner
+who would follow the law and make things better by bringing the Jews or the whole world together.
+This person is called the Saver.</small>
+Jesus told them seriously not to tell anyone about him.
+
+Jesus taught them that The Human would be hurt very much
+and that the law-deciders, the best God-workers and the law-writers would see him as bad,
+and that he would be killed and after three days get up again.
+He said this in the open.
+Peter took him to the side and told him he was wrong.
+Jesus turned and looked at his students and told Peter he was wrong, saying,
+"Get behind me, Satan; you're not thinking of God's things, but people's things."
+
+Jesus called the crowd together with his students and said,
+"If anyone wants to follow me, let them refuse themselves, pick up their cross
+<small>The cross was a way that Romans killed people.</small>, and follow me.
+Anyone who tries to save their life will lose it,
+and anyone who loses their life for me and the good news will save it.
+What good is it for someone to get the whole world, but lose their life?
+What can someone give to get their life back?
+Anyone who hopes not to be seen with me and my words
+by this trust-breaking and wrong-doing family these days;
+The Human will hope not to be seen with them when he shows up
+in the good light of his father, with the special message carriers.

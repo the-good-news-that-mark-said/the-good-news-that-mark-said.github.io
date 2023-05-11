@@ -6,7 +6,10 @@
         "*"
     ],
     "cSpell.dictionaryDefinitions": [
-        { "name": "simplewords", "path": "/mnt/c/Users/pauls/the-good-news-that-mark-said.github.io/dictionary"}
+        {
+            "name": "simplewords",
+            "path": "/mnt/c/Users/pauls/Dropbox/the-good-news-that-mark-said.github.io/dictionary"
+        }
     ],
     "cSpell.dictionaries": [
         "simplewords",
@@ -23,8 +26,12 @@
         "!backwards-compatibility"
     ],
     "cSpell.languageSettings": [
-        { "languageId": "simpleen",
-           "dictionaries": ["simplewords", "!aws"]
+        {
+            "languageId": "simpleen",
+            "dictionaries": [
+                "simplewords",
+                "!aws"
+            ]
         }
     ],
     "cSpell.language": "simpleen",
@@ -34,6 +41,8 @@
         "/'d/",
         "/'ve/",
         "/'re/",
-        "/n't/"
+        "/n't/",
+        "/can't/",
+        "/won't/"
     ],
 }
