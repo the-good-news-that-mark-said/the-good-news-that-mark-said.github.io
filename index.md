@@ -1,26 +1,21 @@
-<i>
-This is an old book written by someone we call Mark, though the writer is not known for sure.
+*This is an old book written by someone we call Mark, though the writer is not known for sure.
 It is the oldest book that tells the story of the life of Jesus from Nazareth.
-(There are older letters that we have about Jesus, but this is the oldest story.)
-It was probably written four tens of years after the events it talks about.
-</i>
+(There are older letters that we have talking about Jesus, but this is the oldest story about his life.)
+It was probably written four tens of years after the events it talks about.*
 
-<i>
-This book was written in the Greek language.
-I have changed it to be written with the ten hundred most used words in English, along with names.
-The set of ten hundred words comes from Randall Munroe (who wrote Thing Explainer).
+*Mark wrote the story in the Greek language.
+I have tried to say the same things here using the ten hundred most used words in English, along with names.
+The [set of ten hundred words](https://blog.xkcd.com/2015/09/22/a-thing-explainer-word-checker/) 
+comes from Randall Munroe (who wrote [Thing Explainer](https://xkcd.com/thing-explainer/)).
 I do not know much Greek, so I have worked mostly from English writings of this book.
 Sometimes, I used words that don't mean exactly what Mark wrote,
 so that I did not have to stop the story to explain what a thing is.
 Sometimes, I was not sure what Mark meant by a word or a couple words.
 Both of these things sometimes happen even to people who know Greek,
-even when they can use all the words in a language.
-</i>
+even when they can use all the words in a language.*
 
-<i>
-I have added notes to try to make some things clear,
-if they would have been understood by people in the place and time that this was written.
-</i>
+*I have added notes to try to make some things clear,
+if they would have been understood by people in the place and time that this was written.*
 
 ## Part 1
 
