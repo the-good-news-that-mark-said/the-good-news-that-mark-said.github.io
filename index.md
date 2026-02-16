@@ -647,7 +647,7 @@ After six days, Jesus brought Peter and James and John up a high mountain alone,
 and he completely changed in front of them and his clothes became very white and made light,
 more than anyone on earth could wash them. And they saw Elijah and Moses talking with Jesus.
 <small>Moses was considered a great person for leading the Jews out of Egypt,
-where they had been owned and forced to work.</small>
+so they would no longer be owned and forced to work.</small>
 Peter spoke to Jesus, "Teacher, it is good for us to be here. We should make three little houses,
 one for you, one for Moses, and one for Elijah." (He didn't know what to say because they were very afraid.)
 A cloud shadowed them, and a voice came out of the cloud:
@@ -660,7 +660,7 @@ They held that between themselves, asking what it meant to rise from the dead.
 Then they asked Jesus, "The law-writers say that Elijah has to come first."
 <small>Elijah was another great old Jewish person,
 and Jews expect Moses and Elijah to return before the world ends.</small>
-Jesus said "Yes Elijah comes first, fixing everything,
+Jesus said "Yes Elijah came first, fixing everything,
 but how was it also written that The Human would be hurt in many ways and be seen as having no use?
 I tell you that Elijah has come, and they did what they wanted to him, like the words say."
 
@@ -673,15 +673,15 @@ One person out of the crowd said,
 When it takes him, his mouth water gets full of air,
 he hits his teeth together, and he is getting thin.
 I asked your students to throw the spirit out and they didn't have the power.
-Jesus said back, "The people these days that doesn't believe!
+Jesus said back, "The people these days; they don't believe!
 How long will I be with you? How long will I have to put up with you? Bring him to me."
 They brought him to him.
 Seeing him, the spirit immediately threw him shaking and rolling on the ground
 with his mouth water full of air.
 Jesus asked "How long has he had this?",
 and he replied, "Since he was a child; it throws him into the fire or water to kill him.
-If you have the power, please be kind and help us."
-Jesus said "If you have power? The believer can do anything."
+If you have the power to do something, please be kind and help us."
+Jesus said "'If you have power'? The believer can do anything."
 Immediately, the father shouted "I believe; help my not-belief!"
 Jesus, seeing that a crowd was gathering,
 put the sick spirit in its place, saying to it
@@ -692,5 +692,4 @@ Jesus took him by the hand, lifted him up, and he got up.
 When Jesus went into a house, his students got him alone and asked him,
 "Why couldn't we throw it out?"
 Jesus said "This kind won't come out by anything but asking God."
-
 
