@@ -213,7 +213,7 @@ But he told them in a serious tone to not tell about him.
 Jesus went up to the mountain and called the people he wanted, and they came to him.
 He picked ten and two, whom he called message-carriers, to be with him,
 and to be sent out to tell people the message, and to throw out bad spirits.
-So he picked the ten and two: Simon (whom he called Peter
+So he picked the ten-and-two: Simon (whom he called Peter
 <small>The name Peter just means "Rock".</small>
 ), James (son of Zebedee) and John the brother of James
 (whom he called Boanerges, which means "Sons of Loud Sky Sounds"),
@@ -228,7 +228,7 @@ And he called out to them, and spoke to them in word pictures, saying,
 "How can the Satan throw itself out?
 And if a country fights itself, that country cannot stand.
 And if a house fights itself, it will not be possible for that house to stand.
-And if Satan stood up against itself and is broken into two, it will not stand, but it has come to an end.
+And if Satan stood up against itself and is broken into, it will not stand, but it has come to an end.
 But no one can come into a strong man's house and steal his things, without first tying up the strong man;
 then the house can be stolen from.
 
@@ -257,7 +257,7 @@ Others fell in pointy things that grew and crowded them before they got strong s
 Still others fell on good earth and gave thirty or twice that or even a hundred times as much food."
 Then he said, "Anyone with ears to hear should hear!"
 
-When Jesus was alone, the ten and two, along with the people around him, asked about the word pictures.
+When Jesus was alone, the ten-and-two, along with the people around him, asked about the word pictures.
 He replied, "You are allowed to know the hidden things about God's country,
 but to outside people, everything becomes word pictures.
 You know, 'when they see, they will see but not understand, and when they hear,
@@ -410,7 +410,7 @@ He couldn't do any acts of power there, except that he put his hands on a few si
 He was surprised at how they didn't have trust.
 
 Jesus went around the villages teaching, and came back to where he started.
-He called the ten and two and he sent them out in pairs, giving them power over the sick spirits.
+He called the ten-and-two and he sent them out in pairs, giving them power over the sick spirits.
 He said that they should take nothing but a walking stick, shoes, and a single shirt (not two!);
 no food, nor a bag, nor money.
 He said "When you enter a house, live there until you leave the village.
@@ -693,3 +693,19 @@ When Jesus went into a house, his students got him alone and asked him,
 "Why couldn't we throw it out?"
 Jesus said "This kind won't come out by anything but asking God."
 
+They left and were going through Galilee, but
+and Jesus didn't want anyone to know.
+He was teaching his students and telling them 
+that The Human would be handed over to people and they would kill him,
+and after being killed, he would rise on the third day.
+They didn't understand what he said, and they were too afraid to ask him.
+
+Then they came to Capernaum. When they were in the house, he asked them, 
+"What were you talking about?".
+They were silent, because, on the road, they were talking with each other about
+which of them was the greatest.
+Jesus sat down and called the ten-and-two and told them,
+"If anyone wants to be first, they will the last of all and everyone's helper."
+He held a child in his arms in the middle of them and said,
+"Anyone who accepts one little child in my name accepts me, 
+and anyone who accepts me doesn't accept me; they accept the one who sent me."
