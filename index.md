@@ -700,7 +700,12 @@ Then they came to Capernaum. When they were in the house, he asked them,
 They were silent, because, on the road, they were talking with each other about
 which of them was the greatest.
 Jesus sat down and called the ten-and-two and told them,
-"If anyone wants to be first, they will the last of all and everyone's helper."
+"If anyone wants to be first, they will be the last of all and everyone's helper."
 He held a child in his arms in the middle of them and said,
 "Anyone who accepts one little child in my name accepts me, 
 and anyone who accepts me doesn't accept me; they accept the one who sent me."
+
+John said, "Teacher, we saw someone throwing out bad spirits in your name,
+and we made him stop because he wasn't with us."
+Jesus said "Don't stop him! No one will do a work of power in my name 
+and then immediately say bad things at me. Anyone who isn't against us is for us."
